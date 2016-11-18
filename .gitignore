@@ -243,3 +243,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/M3D/
+/M3Schema/
+/M3T/
